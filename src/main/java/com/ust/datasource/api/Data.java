@@ -41,5 +41,6 @@ public class Data {
     private String nsegsoc;
     private String numtel;
     private String fecbaja;
+    private String refCatastro;
 
 }
